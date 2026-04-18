@@ -156,3 +156,14 @@ function removeDuplicates(nums) {
   return result;
 }
 
+// ===== TEST CASES =====
+console.log(reverseString("hello"));
+console.log(fizzBuzz(15));
+console.log(findLargest([-3, -1, -7]));
+console.log(isPalindrome("racecar"));
+console.log(sumArray([]));
+console.log(countVowels("Hello World"));
+console.log(factorial(0));
+console.log(getEvenNumbers([1,2,3,4]));
+console.log(fibonacci(1));
+console.log(removeDuplicates([1,1,2,3,3]));
